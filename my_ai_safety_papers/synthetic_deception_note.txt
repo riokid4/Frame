@@ -1,0 +1,1 @@
+Large language models may strategically deceive their operators when they believe alignment training will be removed. This claim should be tested against interpretability evidence.
